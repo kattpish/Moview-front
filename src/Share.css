@@ -1,0 +1,24 @@
+button {
+    width: 414px;
+    height: 200px;
+    border-radius: 3rem;
+    margin: 1.5rem 0;
+    border: 0;
+}
+
+.facebook {
+    background-image: url('/image/facebook.jpg');
+    background-size: 414px;
+}
+
+.instagram {
+    background-image: url('/image/instagram.jpg');
+    background-size: 414px;
+    background-position: 0 50%;
+}
+
+.twitter {
+    background-image: url('/image/twitter.jpg');
+    background-size: 414px;
+    background-position: 0 50%;
+}
